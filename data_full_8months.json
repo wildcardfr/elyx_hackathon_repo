@@ -1,0 +1,3502 @@
+{
+  "metrics": [
+    {
+      "date": "2025-01-01",
+      "metric": "Blood Pressure",
+      "value": 134
+    },
+    {
+      "date": "2025-01-01",
+      "metric": "VO2max",
+      "value": 35
+    },
+    {
+      "date": "2025-01-04",
+      "metric": "Sleep Score",
+      "value": 59
+    },
+    {
+      "date": "2025-01-08",
+      "metric": "Blood Pressure",
+      "value": 132
+    },
+    {
+      "date": "2025-01-11",
+      "metric": "Sleep Score",
+      "value": 60
+    },
+    {
+      "date": "2025-01-15",
+      "metric": "Blood Pressure",
+      "value": 133
+    },
+    {
+      "date": "2025-01-15",
+      "metric": "VO2max",
+      "value": 36
+    },
+    {
+      "date": "2025-01-18",
+      "metric": "Sleep Score",
+      "value": 60
+    },
+    {
+      "date": "2025-01-22",
+      "metric": "Blood Pressure",
+      "value": 134
+    },
+    {
+      "date": "2025-01-25",
+      "metric": "Sleep Score",
+      "value": 62
+    },
+    {
+      "date": "2025-01-29",
+      "metric": "Blood Pressure",
+      "value": 134
+    },
+    {
+      "date": "2025-01-29",
+      "metric": "VO2max",
+      "value": 36
+    },
+    {
+      "date": "2025-02-01",
+      "metric": "Sleep Score",
+      "value": 63
+    },
+    {
+      "date": "2025-02-05",
+      "metric": "Blood Pressure",
+      "value": 135
+    },
+    {
+      "date": "2025-02-08",
+      "metric": "Sleep Score",
+      "value": 63
+    },
+    {
+      "date": "2025-02-12",
+      "metric": "Blood Pressure",
+      "value": 135
+    },
+    {
+      "date": "2025-02-12",
+      "metric": "VO2max",
+      "value": 37
+    },
+    {
+      "date": "2025-02-15",
+      "metric": "Sleep Score",
+      "value": 63
+    },
+    {
+      "date": "2025-02-19",
+      "metric": "Blood Pressure",
+      "value": 134
+    },
+    {
+      "date": "2025-02-22",
+      "metric": "Sleep Score",
+      "value": 62
+    },
+    {
+      "date": "2025-02-26",
+      "metric": "Blood Pressure",
+      "value": 135
+    },
+    {
+      "date": "2025-02-26",
+      "metric": "VO2max",
+      "value": 38
+    },
+    {
+      "date": "2025-03-01",
+      "metric": "Sleep Score",
+      "value": 61
+    },
+    {
+      "date": "2025-03-05",
+      "metric": "Blood Pressure",
+      "value": 133
+    },
+    {
+      "date": "2025-03-08",
+      "metric": "Sleep Score",
+      "value": 62
+    },
+    {
+      "date": "2025-03-12",
+      "metric": "Blood Pressure",
+      "value": 131
+    },
+    {
+      "date": "2025-03-12",
+      "metric": "VO2max",
+      "value": 38
+    },
+    {
+      "date": "2025-03-15",
+      "metric": "Sleep Score",
+      "value": 61
+    },
+    {
+      "date": "2025-03-19",
+      "metric": "Blood Pressure",
+      "value": 129
+    },
+    {
+      "date": "2025-03-22",
+      "metric": "Sleep Score",
+      "value": 63
+    },
+    {
+      "date": "2025-03-26",
+      "metric": "Blood Pressure",
+      "value": 129
+    },
+    {
+      "date": "2025-03-26",
+      "metric": "VO2max",
+      "value": 39
+    },
+    {
+      "date": "2025-03-29",
+      "metric": "Sleep Score",
+      "value": 64
+    },
+    {
+      "date": "2025-04-02",
+      "metric": "Blood Pressure",
+      "value": 129
+    },
+    {
+      "date": "2025-04-05",
+      "metric": "Sleep Score",
+      "value": 64
+    },
+    {
+      "date": "2025-04-09",
+      "metric": "Blood Pressure",
+      "value": 129
+    },
+    {
+      "date": "2025-04-09",
+      "metric": "VO2max",
+      "value": 39
+    },
+    {
+      "date": "2025-04-12",
+      "metric": "Sleep Score",
+      "value": 64
+    },
+    {
+      "date": "2025-04-16",
+      "metric": "Blood Pressure",
+      "value": 128
+    },
+    {
+      "date": "2025-04-19",
+      "metric": "Sleep Score",
+      "value": 63
+    },
+    {
+      "date": "2025-04-23",
+      "metric": "Blood Pressure",
+      "value": 129
+    },
+    {
+      "date": "2025-04-23",
+      "metric": "VO2max",
+      "value": 40
+    },
+    {
+      "date": "2025-04-26",
+      "metric": "Sleep Score",
+      "value": 65
+    },
+    {
+      "date": "2025-04-30",
+      "metric": "Blood Pressure",
+      "value": 127
+    },
+    {
+      "date": "2025-05-03",
+      "metric": "Sleep Score",
+      "value": 67
+    },
+    {
+      "date": "2025-05-07",
+      "metric": "Blood Pressure",
+      "value": 126
+    },
+    {
+      "date": "2025-05-07",
+      "metric": "VO2max",
+      "value": 40
+    },
+    {
+      "date": "2025-05-10",
+      "metric": "Sleep Score",
+      "value": 66
+    },
+    {
+      "date": "2025-05-14",
+      "metric": "Blood Pressure",
+      "value": 124
+    },
+    {
+      "date": "2025-05-17",
+      "metric": "Sleep Score",
+      "value": 68
+    },
+    {
+      "date": "2025-05-21",
+      "metric": "Blood Pressure",
+      "value": 122
+    },
+    {
+      "date": "2025-05-21",
+      "metric": "VO2max",
+      "value": 41
+    },
+    {
+      "date": "2025-05-24",
+      "metric": "Sleep Score",
+      "value": 69
+    },
+    {
+      "date": "2025-05-28",
+      "metric": "Blood Pressure",
+      "value": 122
+    },
+    {
+      "date": "2025-05-31",
+      "metric": "Sleep Score",
+      "value": 71
+    },
+    {
+      "date": "2025-06-04",
+      "metric": "Blood Pressure",
+      "value": 122
+    },
+    {
+      "date": "2025-06-04",
+      "metric": "VO2max",
+      "value": 41
+    },
+    {
+      "date": "2025-06-07",
+      "metric": "Sleep Score",
+      "value": 71
+    },
+    {
+      "date": "2025-06-11",
+      "metric": "Blood Pressure",
+      "value": 120
+    },
+    {
+      "date": "2025-06-14",
+      "metric": "Sleep Score",
+      "value": 70
+    },
+    {
+      "date": "2025-06-18",
+      "metric": "Blood Pressure",
+      "value": 119
+    },
+    {
+      "date": "2025-06-18",
+      "metric": "VO2max",
+      "value": 42
+    },
+    {
+      "date": "2025-06-21",
+      "metric": "Sleep Score",
+      "value": 72
+    },
+    {
+      "date": "2025-06-25",
+      "metric": "Blood Pressure",
+      "value": 117
+    },
+    {
+      "date": "2025-06-28",
+      "metric": "Sleep Score",
+      "value": 74
+    },
+    {
+      "date": "2025-07-02",
+      "metric": "Blood Pressure",
+      "value": 118
+    },
+    {
+      "date": "2025-07-02",
+      "metric": "VO2max",
+      "value": 42
+    },
+    {
+      "date": "2025-07-05",
+      "metric": "Sleep Score",
+      "value": 74
+    },
+    {
+      "date": "2025-07-09",
+      "metric": "Blood Pressure",
+      "value": 117
+    },
+    {
+      "date": "2025-07-12",
+      "metric": "Sleep Score",
+      "value": 76
+    },
+    {
+      "date": "2025-07-16",
+      "metric": "Blood Pressure",
+      "value": 118
+    },
+    {
+      "date": "2025-07-16",
+      "metric": "VO2max",
+      "value": 43
+    },
+    {
+      "date": "2025-07-19",
+      "metric": "Sleep Score",
+      "value": 77
+    },
+    {
+      "date": "2025-07-23",
+      "metric": "Blood Pressure",
+      "value": 118
+    },
+    {
+      "date": "2025-07-26",
+      "metric": "Sleep Score",
+      "value": 78
+    },
+    {
+      "date": "2025-07-30",
+      "metric": "Blood Pressure",
+      "value": 118
+    },
+    {
+      "date": "2025-07-30",
+      "metric": "VO2max",
+      "value": 44
+    },
+    {
+      "date": "2025-08-02",
+      "metric": "Sleep Score",
+      "value": 80
+    },
+    {
+      "date": "2025-08-06",
+      "metric": "Blood Pressure",
+      "value": 118
+    },
+    {
+      "date": "2025-08-09",
+      "metric": "Sleep Score",
+      "value": 82
+    },
+    {
+      "date": "2025-08-13",
+      "metric": "Blood Pressure",
+      "value": 117
+    },
+    {
+      "date": "2025-08-13",
+      "metric": "VO2max",
+      "value": 44
+    },
+    {
+      "date": "2025-08-16",
+      "metric": "Sleep Score",
+      "value": 81
+    },
+    {
+      "date": "2025-08-20",
+      "metric": "Blood Pressure",
+      "value": 118
+    },
+    {
+      "date": "2025-08-23",
+      "metric": "Sleep Score",
+      "value": 83
+    },
+    {
+      "date": "2025-08-27",
+      "metric": "Blood Pressure",
+      "value": 118
+    },
+    {
+      "date": "2025-08-27",
+      "metric": "VO2max",
+      "value": 44
+    }
+  ],
+  "messages": [
+    {
+      "id": "M0001",
+      "date": "2025-01-02",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0002",
+      "date": "2025-01-02",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0003",
+      "date": "2025-01-03",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0004",
+      "date": "2025-01-03",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0005",
+      "date": "2025-01-04",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0006",
+      "date": "2025-01-04",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0007",
+      "date": "2025-01-07",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0008",
+      "date": "2025-01-07",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0009",
+      "date": "2025-01-08",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0010",
+      "date": "2025-01-08",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0011",
+      "date": "2025-01-09",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0012",
+      "date": "2025-01-09",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0013",
+      "date": "2025-01-11",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0014",
+      "date": "2025-01-11",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0015",
+      "date": "2025-01-15",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0016",
+      "date": "2025-01-15",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0017",
+      "date": "2025-01-16",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0018",
+      "date": "2025-01-16",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0019",
+      "date": "2025-01-17",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0020",
+      "date": "2025-01-17",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0021",
+      "date": "2025-01-18",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0022",
+      "date": "2025-01-18",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0023",
+      "date": "2025-01-19",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0024",
+      "date": "2025-01-19",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0025",
+      "date": "2025-01-20",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0026",
+      "date": "2025-01-20",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0027",
+      "date": "2025-01-21",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0028",
+      "date": "2025-01-21",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0029",
+      "date": "2025-01-22",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0030",
+      "date": "2025-01-22",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0031",
+      "date": "2025-01-24",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0032",
+      "date": "2025-01-24",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0033",
+      "date": "2025-01-25",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0034",
+      "date": "2025-01-25",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0035",
+      "date": "2025-01-26",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0036",
+      "date": "2025-01-26",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0037",
+      "date": "2025-01-27",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0038",
+      "date": "2025-01-27",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0039",
+      "date": "2025-01-29",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0040",
+      "date": "2025-01-29",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0041",
+      "date": "2025-01-30",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0042",
+      "date": "2025-01-30",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0043",
+      "date": "2025-02-01",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0044",
+      "date": "2025-02-01",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0045",
+      "date": "2025-02-03",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0046",
+      "date": "2025-02-03",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0047",
+      "date": "2025-02-04",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0048",
+      "date": "2025-02-04",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0049",
+      "date": "2025-02-08",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0050",
+      "date": "2025-02-08",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0051",
+      "date": "2025-02-09",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0052",
+      "date": "2025-02-09",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0053",
+      "date": "2025-02-10",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0054",
+      "date": "2025-02-10",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0055",
+      "date": "2025-02-11",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0056",
+      "date": "2025-02-11",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0057",
+      "date": "2025-02-12",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0058",
+      "date": "2025-02-12",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0059",
+      "date": "2025-02-15",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0060",
+      "date": "2025-02-15",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0061",
+      "date": "2025-02-17",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0062",
+      "date": "2025-02-17",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0063",
+      "date": "2025-02-19",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0064",
+      "date": "2025-02-19",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0065",
+      "date": "2025-02-20",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0066",
+      "date": "2025-02-20",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0067",
+      "date": "2025-02-24",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0068",
+      "date": "2025-02-24",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0069",
+      "date": "2025-02-25",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0070",
+      "date": "2025-02-25",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0071",
+      "date": "2025-02-26",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0072",
+      "date": "2025-02-26",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0073",
+      "date": "2025-02-27",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0074",
+      "date": "2025-02-27",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0075",
+      "date": "2025-02-28",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0076",
+      "date": "2025-02-28",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0077",
+      "date": "2025-03-01",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0078",
+      "date": "2025-03-01",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0079",
+      "date": "2025-03-02",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0080",
+      "date": "2025-03-02",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0081",
+      "date": "2025-03-03",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0082",
+      "date": "2025-03-03",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0083",
+      "date": "2025-03-04",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0084",
+      "date": "2025-03-04",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0085",
+      "date": "2025-03-05",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0086",
+      "date": "2025-03-05",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0087",
+      "date": "2025-03-06",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0088",
+      "date": "2025-03-06",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0089",
+      "date": "2025-03-07",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0090",
+      "date": "2025-03-07",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0091",
+      "date": "2025-03-09",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0092",
+      "date": "2025-03-09",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0093",
+      "date": "2025-03-10",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0094",
+      "date": "2025-03-10",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0095",
+      "date": "2025-03-11",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0096",
+      "date": "2025-03-11",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0097",
+      "date": "2025-03-12",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0098",
+      "date": "2025-03-12",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0099",
+      "date": "2025-03-13",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0100",
+      "date": "2025-03-13",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0101",
+      "date": "2025-03-14",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0102",
+      "date": "2025-03-14",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0103",
+      "date": "2025-03-16",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0104",
+      "date": "2025-03-16",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0105",
+      "date": "2025-03-20",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0106",
+      "date": "2025-03-20",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0107",
+      "date": "2025-03-25",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0108",
+      "date": "2025-03-25",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0109",
+      "date": "2025-03-29",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0110",
+      "date": "2025-03-29",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0111",
+      "date": "2025-03-30",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0112",
+      "date": "2025-03-30",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0113",
+      "date": "2025-03-31",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0114",
+      "date": "2025-03-31",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0115",
+      "date": "2025-04-02",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0116",
+      "date": "2025-04-02",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0117",
+      "date": "2025-04-03",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0118",
+      "date": "2025-04-03",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0119",
+      "date": "2025-04-04",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0120",
+      "date": "2025-04-04",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0121",
+      "date": "2025-04-05",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0122",
+      "date": "2025-04-05",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0123",
+      "date": "2025-04-08",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0124",
+      "date": "2025-04-08",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0125",
+      "date": "2025-04-10",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0126",
+      "date": "2025-04-10",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0127",
+      "date": "2025-04-11",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0128",
+      "date": "2025-04-11",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0129",
+      "date": "2025-04-12",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0130",
+      "date": "2025-04-12",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0131",
+      "date": "2025-04-13",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0132",
+      "date": "2025-04-13",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0133",
+      "date": "2025-04-14",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0134",
+      "date": "2025-04-14",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0135",
+      "date": "2025-04-15",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0136",
+      "date": "2025-04-15",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0137",
+      "date": "2025-04-16",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0138",
+      "date": "2025-04-16",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0139",
+      "date": "2025-04-17",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0140",
+      "date": "2025-04-17",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0141",
+      "date": "2025-04-18",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0142",
+      "date": "2025-04-18",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0143",
+      "date": "2025-04-20",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0144",
+      "date": "2025-04-20",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0145",
+      "date": "2025-04-21",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0146",
+      "date": "2025-04-21",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0147",
+      "date": "2025-04-22",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0148",
+      "date": "2025-04-22",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0149",
+      "date": "2025-04-25",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0150",
+      "date": "2025-04-25",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0151",
+      "date": "2025-04-26",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0152",
+      "date": "2025-04-26",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0153",
+      "date": "2025-04-27",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0154",
+      "date": "2025-04-27",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0155",
+      "date": "2025-04-28",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0156",
+      "date": "2025-04-28",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0157",
+      "date": "2025-04-29",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0158",
+      "date": "2025-04-29",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0159",
+      "date": "2025-05-02",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0160",
+      "date": "2025-05-02",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0161",
+      "date": "2025-05-03",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0162",
+      "date": "2025-05-03",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0163",
+      "date": "2025-05-04",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0164",
+      "date": "2025-05-04",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0165",
+      "date": "2025-05-05",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0166",
+      "date": "2025-05-05",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0167",
+      "date": "2025-05-06",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0168",
+      "date": "2025-05-06",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0169",
+      "date": "2025-05-07",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0170",
+      "date": "2025-05-07",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0171",
+      "date": "2025-05-09",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0172",
+      "date": "2025-05-09",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0173",
+      "date": "2025-05-11",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0174",
+      "date": "2025-05-11",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0175",
+      "date": "2025-05-13",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0176",
+      "date": "2025-05-13",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0177",
+      "date": "2025-05-14",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0178",
+      "date": "2025-05-14",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0179",
+      "date": "2025-05-15",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0180",
+      "date": "2025-05-15",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0181",
+      "date": "2025-05-17",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0182",
+      "date": "2025-05-17",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0183",
+      "date": "2025-05-18",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0184",
+      "date": "2025-05-18",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0185",
+      "date": "2025-05-20",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0186",
+      "date": "2025-05-20",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0187",
+      "date": "2025-05-21",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0188",
+      "date": "2025-05-21",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0189",
+      "date": "2025-05-22",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0190",
+      "date": "2025-05-22",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0191",
+      "date": "2025-05-24",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0192",
+      "date": "2025-05-24",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0193",
+      "date": "2025-05-25",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0194",
+      "date": "2025-05-25",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0195",
+      "date": "2025-05-26",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0196",
+      "date": "2025-05-26",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0197",
+      "date": "2025-05-27",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0198",
+      "date": "2025-05-27",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0199",
+      "date": "2025-05-28",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0200",
+      "date": "2025-05-28",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0201",
+      "date": "2025-05-29",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0202",
+      "date": "2025-05-29",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0203",
+      "date": "2025-05-30",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0204",
+      "date": "2025-05-30",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0205",
+      "date": "2025-05-31",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0206",
+      "date": "2025-05-31",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0207",
+      "date": "2025-06-01",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0208",
+      "date": "2025-06-01",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0209",
+      "date": "2025-06-02",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0210",
+      "date": "2025-06-02",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0211",
+      "date": "2025-06-03",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0212",
+      "date": "2025-06-03",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0213",
+      "date": "2025-06-05",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0214",
+      "date": "2025-06-05",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0215",
+      "date": "2025-06-06",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0216",
+      "date": "2025-06-06",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0217",
+      "date": "2025-06-07",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0218",
+      "date": "2025-06-07",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0219",
+      "date": "2025-06-08",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0220",
+      "date": "2025-06-08",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0221",
+      "date": "2025-06-09",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0222",
+      "date": "2025-06-09",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0223",
+      "date": "2025-06-10",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0224",
+      "date": "2025-06-10",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0225",
+      "date": "2025-06-11",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0226",
+      "date": "2025-06-11",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0227",
+      "date": "2025-06-13",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0228",
+      "date": "2025-06-13",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0229",
+      "date": "2025-06-14",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0230",
+      "date": "2025-06-14",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0231",
+      "date": "2025-06-15",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0232",
+      "date": "2025-06-15",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0233",
+      "date": "2025-06-16",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0234",
+      "date": "2025-06-16",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0235",
+      "date": "2025-06-17",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0236",
+      "date": "2025-06-17",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0237",
+      "date": "2025-06-18",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0238",
+      "date": "2025-06-18",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0239",
+      "date": "2025-06-19",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0240",
+      "date": "2025-06-19",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0241",
+      "date": "2025-06-20",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0242",
+      "date": "2025-06-20",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0243",
+      "date": "2025-06-22",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0244",
+      "date": "2025-06-22",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0245",
+      "date": "2025-06-24",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0246",
+      "date": "2025-06-24",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0247",
+      "date": "2025-06-26",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0248",
+      "date": "2025-06-26",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0249",
+      "date": "2025-06-27",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0250",
+      "date": "2025-06-27",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0251",
+      "date": "2025-06-29",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0252",
+      "date": "2025-06-29",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0253",
+      "date": "2025-06-30",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0254",
+      "date": "2025-06-30",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0255",
+      "date": "2025-07-01",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0256",
+      "date": "2025-07-01",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0257",
+      "date": "2025-07-02",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0258",
+      "date": "2025-07-02",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0259",
+      "date": "2025-07-03",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0260",
+      "date": "2025-07-03",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0261",
+      "date": "2025-07-04",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0262",
+      "date": "2025-07-04",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0263",
+      "date": "2025-07-05",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0264",
+      "date": "2025-07-05",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0265",
+      "date": "2025-07-06",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0266",
+      "date": "2025-07-06",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0267",
+      "date": "2025-07-07",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0268",
+      "date": "2025-07-07",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0269",
+      "date": "2025-07-08",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0270",
+      "date": "2025-07-08",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0271",
+      "date": "2025-07-10",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0272",
+      "date": "2025-07-10",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0273",
+      "date": "2025-07-11",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0274",
+      "date": "2025-07-11",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0275",
+      "date": "2025-07-13",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0276",
+      "date": "2025-07-13",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0277",
+      "date": "2025-07-14",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0278",
+      "date": "2025-07-14",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0279",
+      "date": "2025-07-15",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0280",
+      "date": "2025-07-15",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0281",
+      "date": "2025-07-18",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Sleep latency is high\u2014any tips?"
+    },
+    {
+      "id": "M0282",
+      "date": "2025-07-18",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0283",
+      "date": "2025-07-21",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0284",
+      "date": "2025-07-21",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0285",
+      "date": "2025-07-22",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0286",
+      "date": "2025-07-22",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0287",
+      "date": "2025-07-23",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0288",
+      "date": "2025-07-23",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0289",
+      "date": "2025-07-24",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0290",
+      "date": "2025-07-24",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0291",
+      "date": "2025-07-25",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0292",
+      "date": "2025-07-25",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0293",
+      "date": "2025-07-28",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0294",
+      "date": "2025-07-28",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0295",
+      "date": "2025-07-29",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0296",
+      "date": "2025-07-29",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0297",
+      "date": "2025-07-30",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0298",
+      "date": "2025-07-30",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0299",
+      "date": "2025-08-01",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0300",
+      "date": "2025-08-01",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0301",
+      "date": "2025-08-03",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0302",
+      "date": "2025-08-03",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0303",
+      "date": "2025-08-04",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Late dinner yesterday; glucose spike on Garmin."
+    },
+    {
+      "id": "M0304",
+      "date": "2025-08-04",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0305",
+      "date": "2025-08-06",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0306",
+      "date": "2025-08-06",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0307",
+      "date": "2025-08-07",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0308",
+      "date": "2025-08-07",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0309",
+      "date": "2025-08-08",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0310",
+      "date": "2025-08-08",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0311",
+      "date": "2025-08-09",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0312",
+      "date": "2025-08-09",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0313",
+      "date": "2025-08-12",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0314",
+      "date": "2025-08-12",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0315",
+      "date": "2025-08-14",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0316",
+      "date": "2025-08-14",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Try a 20-min brisk walk today; keep momentum."
+    },
+    {
+      "id": "M0317",
+      "date": "2025-08-17",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Traveling this week\u2014hotel gym is tiny."
+    },
+    {
+      "id": "M0318",
+      "date": "2025-08-17",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Front-load protein at breakfast to reduce late-night hunger."
+    },
+    {
+      "id": "M0319",
+      "date": "2025-08-19",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0320",
+      "date": "2025-08-19",
+      "sender": "Dr. Warren",
+      "role": "Doctor",
+      "pillar": "Diagnostics",
+      "message": "Cut caffeine after 2 PM to improve sleep latency."
+    },
+    {
+      "id": "M0321",
+      "date": "2025-08-21",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0322",
+      "date": "2025-08-21",
+      "sender": "Ruby",
+      "role": "Coach",
+      "pillar": "Nutrition",
+      "message": "Reduce sodium and track AM/PM BP for 7 days."
+    },
+    {
+      "id": "M0323",
+      "date": "2025-08-22",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Exercise",
+      "message": "Can I swap rice for quinoa while traveling?"
+    },
+    {
+      "id": "M0324",
+      "date": "2025-08-22",
+      "sender": "Neel",
+      "role": "Care Coordinator",
+      "pillar": "Care",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    },
+    {
+      "id": "M0325",
+      "date": "2025-08-25",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0326",
+      "date": "2025-08-25",
+      "sender": "Advik",
+      "role": "Trainer",
+      "pillar": "Exercise",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0327",
+      "date": "2025-08-26",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Sleep",
+      "message": "Craving salty snacks\u2014BP concern?"
+    },
+    {
+      "id": "M0328",
+      "date": "2025-08-26",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Light exposure at local morning time to shift your clock."
+    },
+    {
+      "id": "M0329",
+      "date": "2025-08-27",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Travel",
+      "message": "Meetings ran late; missed workout."
+    },
+    {
+      "id": "M0330",
+      "date": "2025-08-27",
+      "sender": "Rachel",
+      "role": "Psychologist",
+      "pillar": "Mental Health",
+      "message": "Use 10-hour eating window during travel."
+    },
+    {
+      "id": "M0331",
+      "date": "2025-08-28",
+      "sender": "Rohan",
+      "role": "Member",
+      "pillar": "Nutrition",
+      "message": "Jet lagged after red-eye flight."
+    },
+    {
+      "id": "M0332",
+      "date": "2025-08-28",
+      "sender": "Carla",
+      "role": "Nutritionist",
+      "pillar": "Nutrition",
+      "message": "Do a hotel routine: mobility + bodyweight push/pull."
+    }
+  ],
+  "decisions": [
+    {
+      "id": "D001",
+      "date": "2025-01-03",
+      "title": "Nutrition Update",
+      "pillar": "Travel",
+      "by": "Ruby",
+      "rationale": "Response to M0003 \u2192 M0004; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0003",
+        "M0004"
+      ]
+    },
+    {
+      "id": "D002",
+      "date": "2025-01-07",
+      "title": "Sleep Hygiene",
+      "pillar": "Travel",
+      "by": "Advik",
+      "rationale": "Response to M0007 \u2192 M0008; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0007",
+        "M0008"
+      ]
+    },
+    {
+      "id": "D003",
+      "date": "2025-01-09",
+      "title": "Sleep Hygiene",
+      "pillar": "Travel",
+      "by": "Ruby",
+      "rationale": "Response to M0011 \u2192 M0012; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0011",
+        "M0012"
+      ]
+    },
+    {
+      "id": "D004",
+      "date": "2025-01-15",
+      "title": "Sleep Hygiene",
+      "pillar": "Sleep",
+      "by": "Advik",
+      "rationale": "Response to M0015 \u2192 M0016; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0015",
+        "M0016"
+      ]
+    },
+    {
+      "id": "D005",
+      "date": "2025-01-19",
+      "title": "Monitoring",
+      "pillar": "Diagnostics",
+      "by": "Neel",
+      "rationale": "Response to M0023 \u2192 M0024; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0023",
+        "M0024"
+      ]
+    },
+    {
+      "id": "D006",
+      "date": "2025-01-30",
+      "title": "Nutrition Update",
+      "pillar": "Exercise",
+      "by": "Advik",
+      "rationale": "Response to M0041 \u2192 M0042; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0041",
+        "M0042"
+      ]
+    },
+    {
+      "id": "D007",
+      "date": "2025-02-01",
+      "title": "Nutrition Update",
+      "pillar": "Nutrition",
+      "by": "Advik",
+      "rationale": "Response to M0043 \u2192 M0044; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0043",
+        "M0044"
+      ]
+    },
+    {
+      "id": "D008",
+      "date": "2025-02-10",
+      "title": "Travel Protocol",
+      "pillar": "Exercise",
+      "by": "Dr. Warren",
+      "rationale": "Response to M0053 \u2192 M0054; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0053",
+        "M0054"
+      ]
+    },
+    {
+      "id": "D009",
+      "date": "2025-02-20",
+      "title": "Nutrition Update",
+      "pillar": "Nutrition",
+      "by": "Rachel",
+      "rationale": "Response to M0065 \u2192 M0066; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0065",
+        "M0066"
+      ]
+    },
+    {
+      "id": "D010",
+      "date": "2025-02-26",
+      "title": "Plan Adjustment",
+      "pillar": "Travel",
+      "by": "Dr. Warren",
+      "rationale": "Response to M0071 \u2192 M0072; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0071",
+        "M0072"
+      ]
+    },
+    {
+      "id": "D011",
+      "date": "2025-02-27",
+      "title": "Monitoring",
+      "pillar": "Diagnostics",
+      "by": "Advik",
+      "rationale": "Response to M0073 \u2192 M0074; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0073",
+        "M0074"
+      ]
+    },
+    {
+      "id": "D012",
+      "date": "2025-03-07",
+      "title": "Nutrition Update",
+      "pillar": "Sleep",
+      "by": "Neel",
+      "rationale": "Response to M0089 \u2192 M0090; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0089",
+        "M0090"
+      ]
+    },
+    {
+      "id": "D013",
+      "date": "2025-03-25",
+      "title": "Travel Protocol",
+      "pillar": "Exercise",
+      "by": "Dr. Warren",
+      "rationale": "Response to M0107 \u2192 M0108; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0107",
+        "M0108"
+      ]
+    },
+    {
+      "id": "D014",
+      "date": "2025-04-03",
+      "title": "Nutrition Update",
+      "pillar": "Sleep",
+      "by": "Rachel",
+      "rationale": "Response to M0117 \u2192 M0118; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0117",
+        "M0118"
+      ]
+    },
+    {
+      "id": "D015",
+      "date": "2025-04-04",
+      "title": "Nutrition Update",
+      "pillar": "Sleep",
+      "by": "Rachel",
+      "rationale": "Response to M0119 \u2192 M0120; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0119",
+        "M0120"
+      ]
+    },
+    {
+      "id": "D016",
+      "date": "2025-04-12",
+      "title": "Sleep Hygiene",
+      "pillar": "Sleep",
+      "by": "Rachel",
+      "rationale": "Response to M0129 \u2192 M0130; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0129",
+        "M0130"
+      ]
+    },
+    {
+      "id": "D017",
+      "date": "2025-04-27",
+      "title": "Monitoring",
+      "pillar": "Diagnostics",
+      "by": "Ruby",
+      "rationale": "Response to M0153 \u2192 M0154; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0153",
+        "M0154"
+      ]
+    },
+    {
+      "id": "D018",
+      "date": "2025-05-05",
+      "title": "Monitoring",
+      "pillar": "Diagnostics",
+      "by": "Rachel",
+      "rationale": "Response to M0165 \u2192 M0166; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0165",
+        "M0166"
+      ]
+    },
+    {
+      "id": "D019",
+      "date": "2025-05-06",
+      "title": "Monitoring",
+      "pillar": "Diagnostics",
+      "by": "Neel",
+      "rationale": "Response to M0167 \u2192 M0168; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0167",
+        "M0168"
+      ]
+    },
+    {
+      "id": "D020",
+      "date": "2025-05-09",
+      "title": "Nutrition Update",
+      "pillar": "Travel",
+      "by": "Ruby",
+      "rationale": "Response to M0171 \u2192 M0172; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0171",
+        "M0172"
+      ]
+    },
+    {
+      "id": "D021",
+      "date": "2025-05-13",
+      "title": "Travel Protocol",
+      "pillar": "Nutrition",
+      "by": "Dr. Warren",
+      "rationale": "Response to M0175 \u2192 M0176; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0175",
+        "M0176"
+      ]
+    },
+    {
+      "id": "D022",
+      "date": "2025-05-15",
+      "title": "Plan Adjustment",
+      "pillar": "Nutrition",
+      "by": "Dr. Warren",
+      "rationale": "Response to M0179 \u2192 M0180; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0179",
+        "M0180"
+      ]
+    },
+    {
+      "id": "D023",
+      "date": "2025-05-22",
+      "title": "Nutrition Update",
+      "pillar": "Travel",
+      "by": "Dr. Warren",
+      "rationale": "Response to M0189 \u2192 M0190; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0189",
+        "M0190"
+      ]
+    },
+    {
+      "id": "D024",
+      "date": "2025-06-10",
+      "title": "Exercise Progression",
+      "pillar": "Exercise",
+      "by": "Rachel",
+      "rationale": "Response to M0223 \u2192 M0224; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0223",
+        "M0224"
+      ]
+    },
+    {
+      "id": "D025",
+      "date": "2025-06-14",
+      "title": "Travel Protocol",
+      "pillar": "Nutrition",
+      "by": "Dr. Warren",
+      "rationale": "Response to M0229 \u2192 M0230; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0229",
+        "M0230"
+      ]
+    },
+    {
+      "id": "D026",
+      "date": "2025-06-15",
+      "title": "Monitoring",
+      "pillar": "Diagnostics",
+      "by": "Rachel",
+      "rationale": "Response to M0231 \u2192 M0232; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0231",
+        "M0232"
+      ]
+    },
+    {
+      "id": "D027",
+      "date": "2025-06-22",
+      "title": "Monitoring",
+      "pillar": "Diagnostics",
+      "by": "Ruby",
+      "rationale": "Response to M0243 \u2192 M0244; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0243",
+        "M0244"
+      ]
+    },
+    {
+      "id": "D028",
+      "date": "2025-06-29",
+      "title": "Exercise Progression",
+      "pillar": "Travel",
+      "by": "Advik",
+      "rationale": "Response to M0251 \u2192 M0252; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0251",
+        "M0252"
+      ]
+    },
+    {
+      "id": "D029",
+      "date": "2025-07-03",
+      "title": "Sleep Hygiene",
+      "pillar": "Travel",
+      "by": "Carla",
+      "rationale": "Response to M0259 \u2192 M0260; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0259",
+        "M0260"
+      ]
+    },
+    {
+      "id": "D030",
+      "date": "2025-07-04",
+      "title": "Travel Protocol",
+      "pillar": "Sleep",
+      "by": "Neel",
+      "rationale": "Response to M0261 \u2192 M0262; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0261",
+        "M0262"
+      ]
+    },
+    {
+      "id": "D031",
+      "date": "2025-07-08",
+      "title": "Exercise Progression",
+      "pillar": "Travel",
+      "by": "Carla",
+      "rationale": "Response to M0269 \u2192 M0270; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0269",
+        "M0270"
+      ]
+    },
+    {
+      "id": "D032",
+      "date": "2025-08-04",
+      "title": "Monitoring",
+      "pillar": "Diagnostics",
+      "by": "Neel",
+      "rationale": "Response to M0303 \u2192 M0304; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0303",
+        "M0304"
+      ]
+    },
+    {
+      "id": "D033",
+      "date": "2025-08-25",
+      "title": "Sleep Hygiene",
+      "pillar": "Travel",
+      "by": "Advik",
+      "rationale": "Response to M0325 \u2192 M0326; align with goals while adherence ~50%.",
+      "related_message_ids": [
+        "M0325",
+        "M0326"
+      ]
+    }
+  ],
+  "persona": "Rohan Patel, 46, Singapore. Borderline hypertension. Uses Garmin. Travels ~1 week/4. Compliance \u224850%. Prefers concise, data-backed advice.",
+  "internal_metrics": {
+    "Doctor Hours": 16,
+    "Coach Hours": 44,
+    "Trainer Hours": 28,
+    "Interventions Tried": 33
+  }
+}
