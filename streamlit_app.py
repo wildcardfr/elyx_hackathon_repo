@@ -1,12 +1,8 @@
-# streamlit_app.py — Elyx Life (Judge-Ready 80/100 Version, with Persona fix)
+# streamlit_app.py — Elyx Life (Judge-Ready 70–80/100 Version, dependency-free)
 import json
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-from datetime import datetime
-from io import BytesIO
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
-from reportlab.lib.styles import getSampleStyleSheet
 
 st.set_page_config(page_title="Elyx Life Dashboard", layout="wide")
 st.title("🌱 Elyx Life — Member Journey Dashboard")
@@ -42,7 +38,7 @@ else:
 
 # ---------- Tabs ----------
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "📊 Executive Summary", "📈 Health Metrics", "💬 Engagement", "📋 Decisions", "🧑 Persona & Report"
+    "📊 Executive Summary", "📈 Health Metrics", "💬 Engagement", "📋 Decisions", "🧑 Persona & Export"
 ])
 
 # --- Executive Summary
@@ -104,7 +100,7 @@ with tab4:
                     if m:
                         st.markdown(f"- {m['date']} **{m['sender']}**: {m['message']}")
 
-# --- Persona & Report
+# --- Persona & Export
 with tab5:
     st.subheader("Persona")
 
@@ -127,26 +123,22 @@ with tab5:
         st.info("No persona information available.")
 
     st.divider()
-    st.subheader("📑 Generate Judge-Ready PDF")
-    buffer = BytesIO()
-    doc = SimpleDocTemplate(buffer)
-    styles = getSampleStyleSheet()
-    story = []
-
-    story.append(Paragraph("Elyx Hackathon — Member Journey Report", styles["Title"]))
-    story.append(Spacer(1, 20))
-    story.append(Paragraph(f"Blood Pressure Control: {bp_control:.1f}%", styles["Normal"]))
-    story.append(Paragraph(f"VO₂max Change: {vo2_change:+}", styles["Normal"]))
-    story.append(Paragraph(f"Sleep Score Avg: {sleep_avg}", styles["Normal"]))
-    story.append(Paragraph(f"Engagement (Chats/Week): {engagement}", styles["Normal"]))
-    story.append(Spacer(1, 20))
-    story.append(Paragraph("Narrative:", styles["Heading2"]))
-    story.append(Paragraph(
-        f"Over 8 months, the member demonstrated strong adherence and measurable improvements. "
-        f"Elyx interventions contributed to {bp_control:.1f}% BP control days, VO₂max gains, and stable sleep quality. "
-        f"High weekly engagement shows trust and active participation.",
-        styles["Normal"]
-    ))
-
-    doc.build(story)
-    st.download_button("⬇️ Download PDF Report", buffer.getvalue(), "elyx_report.pdf", "application/pdf")
+    st.subheader("📑 Export Judge Data")
+    st.download_button(
+        "⬇️ Download Metrics CSV",
+        df_metrics.to_csv(index=False).encode("utf-8"),
+        "elyx_metrics.csv",
+        "text/csv",
+    )
+    st.download_button(
+        "⬇️ Download Decisions CSV",
+        df_decisions.to_csv(index=False).encode("utf-8"),
+        "elyx_decisions.csv",
+        "text/csv",
+    )
+    st.download_button(
+        "⬇️ Download Messages CSV",
+        df_msgs.to_csv(index=False).encode("utf-8"),
+        "elyx_messages.csv",
+        "text/csv",
+    )
