@@ -1,4 +1,3 @@
-# streamlit_app.py — Elyx Life (Judge-Ready 70–80/100 Version, dependency-free)
 import json
 import pandas as pd
 import plotly.express as px
@@ -7,7 +6,6 @@ import streamlit as st
 st.set_page_config(page_title="Elyx Life Dashboard", layout="wide")
 st.title("🌱 Elyx Life — Member Journey Dashboard")
 
-# ---------- Data Load ----------
 with open("data_full_8months.json", "r") as f:
     data = json.load(f)
 
@@ -19,7 +17,7 @@ for df in [df_metrics, df_msgs, df_decisions]:
     if "date" in df.columns:
         df["date"] = pd.to_datetime(df["date"], errors="coerce")
 
-# ---------- Derived KPIs ----------
+
 bp = df_metrics[df_metrics["metric"] == "Blood Pressure"]["value"]
 vo2 = df_metrics[df_metrics["metric"] == "VO2max"]["value"]
 sleep = df_metrics[df_metrics["metric"] == "Sleep Score"]["value"]
@@ -28,7 +26,7 @@ bp_control = (bp <= 130).sum() / len(bp) * 100 if len(bp) else 0
 vo2_change = vo2.iloc[-1] - vo2.iloc[0] if len(vo2) >= 2 else 0
 sleep_avg = round(sleep.mean(), 1) if len(sleep) else 0
 
-# Engagement = chats/week
+
 if not df_msgs.empty:
     df_msgs["week"] = df_msgs["date"].dt.isocalendar().week
     weekly = df_msgs.groupby("week").size()
@@ -36,12 +34,12 @@ if not df_msgs.empty:
 else:
     engagement = 0
 
-# ---------- Tabs ----------
+
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "📊 Executive Summary", "📈 Health Metrics", "💬 Engagement", "📋 Decisions", "🧑 Persona & Export"
 ])
 
-# --- Executive Summary
+
 with tab1:
     st.subheader("Executive Summary")
     c1, c2, c3, c4 = st.columns(4)
@@ -73,7 +71,7 @@ with tab2:
         comp = df_metrics.groupby(["period","metric"])["value"].mean().reset_index()
         st.bar_chart(comp.pivot(index="metric", columns="period", values="value"))
 
-# --- Engagement
+
 with tab3:
     st.subheader("Message Activity")
     if df_msgs.empty:
@@ -84,7 +82,7 @@ with tab3:
         fig = px.histogram(df_msgs, x="date", color="sender", nbins=30)
         st.plotly_chart(fig, use_container_width=True)
 
-# --- Decisions
+
 with tab4:
     st.subheader("Decision Register")
     if df_decisions.empty:
@@ -100,13 +98,13 @@ with tab4:
                     if m:
                         st.markdown(f"- {m['date']} **{m['sender']}**: {m['message']}")
 
-# --- Persona & Export
+
 with tab5:
     st.subheader("Persona")
 
     persona = data.get("persona", {})
 
-    # If persona is just a string, show it directly
+
     if isinstance(persona, str):
         st.write(persona)
     elif isinstance(persona, dict):
