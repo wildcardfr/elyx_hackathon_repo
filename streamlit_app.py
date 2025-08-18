@@ -1,4 +1,4 @@
-# streamlit_app.py — Elyx Life (Judge-Ready 80/100 Version)
+# streamlit_app.py — Elyx Life (Judge-Ready 80/100 Version, with Persona fix)
 import json
 import pandas as pd
 import plotly.express as px
@@ -42,7 +42,7 @@ else:
 
 # ---------- Tabs ----------
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "📊 Executive Summary", "📈 Health Metrics", "💬 Engagement", "📋 Decisions", "📑 Export Report"
+    "📊 Executive Summary", "📈 Health Metrics", "💬 Engagement", "📋 Decisions", "🧑 Persona & Report"
 ])
 
 # --- Executive Summary
@@ -71,7 +71,9 @@ with tab2:
         st.plotly_chart(fig, use_container_width=True)
 
         st.markdown("#### Before vs After (First 2 months vs Last 2 months)")
-        df_metrics["period"] = df_metrics["date"].apply(lambda d: "Before" if d < df_metrics["date"].min() + pd.Timedelta(days=60) else "After")
+        df_metrics["period"] = df_metrics["date"].apply(
+            lambda d: "Before" if d < df_metrics["date"].min() + pd.Timedelta(days=60) else "After"
+        )
         comp = df_metrics.groupby(["period","metric"])["value"].mean().reset_index()
         st.bar_chart(comp.pivot(index="metric", columns="period", values="value"))
 
@@ -102,8 +104,29 @@ with tab4:
                     if m:
                         st.markdown(f"- {m['date']} **{m['sender']}**: {m['message']}")
 
-# --- Export Report
+# --- Persona & Report
 with tab5:
+    st.subheader("Persona")
+
+    persona = data.get("persona", {})
+
+    # If persona is just a string, show it directly
+    if isinstance(persona, str):
+        st.write(persona)
+    elif isinstance(persona, dict):
+        pcol1, pcol2 = st.columns([1, 3])
+        with pcol1:
+            avatar = persona.get("avatar_url")
+            if avatar:
+                st.image(avatar, width=120)
+        with pcol2:
+            for k, v in persona.items():
+                if k != "avatar_url":
+                    st.write(f"**{k.capitalize()}:** {v}")
+    else:
+        st.info("No persona information available.")
+
+    st.divider()
     st.subheader("📑 Generate Judge-Ready PDF")
     buffer = BytesIO()
     doc = SimpleDocTemplate(buffer)
