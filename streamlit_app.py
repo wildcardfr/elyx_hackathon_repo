@@ -1,4 +1,4 @@
-# streamlit_app.py — Elyx Life Hackathon (Judge-Ready 70–80/100 Version)
+# streamlit_app.py — Elyx Life Hackathon (Judge-Ready Version)
 
 import json
 import pandas as pd
@@ -108,7 +108,11 @@ with tab3:
         daily["dow"] = pd.to_datetime(daily["day"]).dt.day_name()
         daily["week"] = pd.to_datetime(daily["day"]).dt.isocalendar().week
 
-        pivot = daily.pivot("dow","week","messages").fillna(0)
+        pivot = daily.pivot(index="dow", columns="week", values="messages").fillna(0)
+
+        # Order days Mon → Sun
+        day_order = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+        pivot = pivot.reindex(day_order)
 
         fig, ax = plt.subplots(figsize=(12,4))
         sns.heatmap(pivot, cmap="YlGnBu", linewidths=.5, ax=ax, cbar=False)
